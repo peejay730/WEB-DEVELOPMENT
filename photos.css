@@ -1,0 +1,13 @@
+h1{
+	font-family: 'Eczar', bold;
+	color: purple;
+	margin-left: 1.66%;
+	border-bottom: 10px solid purple;
+	width: 30%;
+	padding-bottom: 20px;
+}
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
